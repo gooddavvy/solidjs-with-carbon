@@ -7,6 +7,8 @@ import Pie from "./Pie";
 import StackedBars from "./StackedBars";
 import Bullet from "./Bullet";
 
+// hello world
+
 const Home = function () {
   return <h2>Welcome(to it)!</h2>;
 };
